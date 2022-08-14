@@ -1,5 +1,3 @@
-
-
 <h1 align="center">🧢 About me 🧢</h2>
 <h3> Hi all! My name is Arsen, I am a student at CMC MSU.
 In my spare time I study blockchain development and trying my best to become a professional.</h3>
@@ -16,7 +14,14 @@ Python                       ████████████░░░░░
 Solidity                     ████░░░░░░░░░░░░░░░░░░░░░   20 %
 Java Script                  █░░░░░░░░░░░░░░░░░░░░░░░░   5 %
 ```
-
+<p align="left">
+<img src="https://user-images.githubusercontent.com/56827866/184535133-0e7d5dc0-7a93-4d73-b133-f02247560d36.png" alt="asm" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/56827866/184535252-bd25b3e5-5fbe-4702-aa16-ab6cbc2cbf55.jpg" alt="pascal" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/56827866/184535001-78642aba-caf8-4efc-99a9-1ccb394d4d34.svg" alt="C++" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/56827866/184534936-c08baece-057f-4812-b3aa-611e26ba91de.svg" alt="solidity" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+</p>
 <!--END_SECTION:waka-->
 <br />
 <br />
