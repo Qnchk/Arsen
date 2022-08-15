@@ -2,7 +2,6 @@
 <h3> Hi all! My name is Arsen, I am a student at CMC MSU.
 In my spare time I study blockchain development and trying my best to become a professional.</h3>
 <img align="right" width="43%" src="https://user-images.githubusercontent.com/56827866/184517266-3e4b87c9-a20d-4f53-b657-906834f7e451.gif" />
-
 <h2>📊 My skills</h2>
 <!--START_SECTION:waka-->
 
@@ -27,6 +26,7 @@ Java Script                  █░░░░░░░░░░░░░░░░
 <br />
 <br />
 <br />
+
 
 
 
@@ -61,6 +61,7 @@ Java Script                  █░░░░░░░░░░░░░░░░
 </table>
 
 
+
 <br />
 <br />
 <br />
@@ -76,8 +77,8 @@ Java Script                  █░░░░░░░░░░░░░░░░
           href="ref_on_binance scanner"
         >
           <img
-            alt="My binance scanner"
-            src="https://user-images.githubusercontent.com/56827866/184533034-701e1345-1c64-4deb-93a6-328dcf73b5fa.svg"
+            alt="My binance screener"
+            src="https://user-images.githubusercontent.com/56827866/184733926-ad2103d4-eabf-4200-91d4-b3627e7074c6.png"
           />
         </a>
       </td>
@@ -87,14 +88,14 @@ Java Script                  █░░░░░░░░░░░░░░░░
         >
           <img
             alt="Comming soon"
-            src="https://user-images.githubusercontent.com/56827866/184533687-fcdca46d-4a8e-4533-bd35-a5b155fa2d1a.gif"
+            src="https://user-images.githubusercontent.com/56827866/184741276-aa5d7635-2ed3-41d2-88a5-39f1f349d598.gif"
           />
         </a>
       </td>
     </tr>
   </tbody>
 </table>
- <table>
+<table>
   <tbody>
     <tr>
       <td width="50%" align="center">
