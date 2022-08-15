@@ -74,7 +74,7 @@ Java Script                  █░░░░░░░░░░░░░░░░
     <tr>
       <td width="50%" align="center">
         <a
-          href="ref_on_binance scanner"
+          href="https://github.com/Qnchk/binance_scanner"
         >
           <img
             alt="My binance screener"
