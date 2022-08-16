@@ -84,10 +84,10 @@ Java Script                  █░░░░░░░░░░░░░░░░
       </td>
       <td width="50%" align="center">
         <a
-          href="no_ref"
+          href="https://github.com/Qnchk/parser"
         >
           <img
-            alt="Comming soon"
+            alt="Amayama.com parser"
             src="https://user-images.githubusercontent.com/56827866/184741276-aa5d7635-2ed3-41d2-88a5-39f1f349d598.gif"
           />
         </a>
