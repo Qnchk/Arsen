@@ -38,7 +38,7 @@ Java Script                  █░░░░░░░░░░░░░░░░
     <tr>
       <td width="50%" align="center">
         <a
-          href="ref_on_first_sem"
+          href="https://github.com/Qnchk/cmc_msu_first-sem"
         >
           <img
             alt="My first semester at Moscow State University"
