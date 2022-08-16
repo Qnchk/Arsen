@@ -1,6 +1,6 @@
 <h1 align="center">🧢 About me 🧢</h2>
-<h3> Hi all! My name is Arsen, I am a student at CMC MSU.
-In my spare time I study blockchain development and trying my best to become a professional.</h3>
+<h3> Arsen, 19. Future blockchain developer.
+You want to fuck the world, but in reality you can't even do your homework...</h3>
 <img align="right" width="43%" src="https://user-images.githubusercontent.com/56827866/184517266-3e4b87c9-a20d-4f53-b657-906834f7e451.gif" />
 <h2>📊 My skills</h2>
 <!--START_SECTION:waka-->
