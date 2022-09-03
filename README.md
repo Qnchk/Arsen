@@ -1,5 +1,5 @@
 <h1 align="center">🧢 About me 🧢</h2>
-<h3> Arsen, 19. Future blockchain developer.
+<h3> Arsen, 19. Future Data Scientist.
 You want to fuck the world, but in reality you can't even do your homework...</h3>
 <img align="right" width="43%" src="https://user-images.githubusercontent.com/56827866/184517266-3e4b87c9-a20d-4f53-b657-906834f7e451.gif" />
 <h2>📊 My skills</h2>
