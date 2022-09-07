@@ -70,7 +70,7 @@ Java Script                  █░░░░░░░░░░░░░░░░
     <tr>
       <td width="50%" align="center">
         <a
-          href="https://github.com/Qnchk/binance_scanner"
+          href="https://github.com/Qnchk/perceptron"
         >
           <img
             alt="Perceptron"
