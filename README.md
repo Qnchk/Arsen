@@ -60,6 +60,39 @@ Java Script                  █░░░░░░░░░░░░░░░░
   </tbody>
 </table>
 
+<br />
+<br />
+<br />
+<br />
+<h1 align="center">👾Machine Learning👾 </h2>
+<table>
+  <tbody>
+    <tr>
+      <td width="50%" align="center">
+        <a
+          href="https://github.com/Qnchk/binance_scanner"
+        >
+          <img
+            alt="Perceptron"
+            src="https://user-images.githubusercontent.com/56827866/188885543-00c8abef-53f6-429e-9148-770fe8cd86fb.gif"
+          />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a
+          href="no_ref"
+        >
+          <img
+            alt="comming soon"
+            src="https://user-images.githubusercontent.com/56827866/184533687-fcdca46d-4a8e-4533-bd35-a5b155fa2d1a.gif"
+          />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+
 
 
 <br />
